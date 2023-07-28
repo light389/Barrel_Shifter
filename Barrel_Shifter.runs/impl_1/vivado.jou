@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jul 11 22:29:40 2023
+# Process ID: 35756
+# Current directory: C:/Users/samar/Downloads/Barrel_Shifter/Barrel_Shifter.runs/impl_1
+# Command line: vivado.exe -log shift.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source shift.tcl -notrace
+# Log file: C:/Users/samar/Downloads/Barrel_Shifter/Barrel_Shifter.runs/impl_1/shift.vdi
+# Journal file: C:/Users/samar/Downloads/Barrel_Shifter/Barrel_Shifter.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source shift.tcl -notrace

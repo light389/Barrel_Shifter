@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Barrel_Shifter.srcs/sources_1/new/shift.v" \
+"../../../../Barrel_Shifter.srcs/sim_1/new/shifter.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
